@@ -45,4 +45,3 @@ webpage contains word x”
 the word x is found in the document y. The word indices should be
 separated by a comma. If the word x is not found in webpage y, then
 print “Webpage y does not contain word x”.
-
